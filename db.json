@@ -17,7 +17,7 @@
         {
             "brand": "AA",
             "model": "BB",
-            "title": "PPPPP",
+            "title": "Piece1",
             "reference": "CC",
             "images": [
                 "images/Bougie.jpeg",
@@ -28,7 +28,7 @@
         {
             "brand": "XX",
             "model": "YY",
-            "title": "PPPPP",
+            "title": "Piece2",
             "reference": "ZZ",
             "images": [
                 "images/Bougie.jpeg"
