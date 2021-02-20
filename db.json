@@ -15,21 +15,21 @@
     ],
     "spareparts": [
         {
-            "brand": "",
-            "model": "",
+            "brand": "AA",
+            "model": "BB",
             "title": "PPPPP",
-            "reference": "",
+            "reference": "CC",
             "images": [
                 "images/Bougie.jpeg",
-                ""
+                "img"
             ],
             "price": 2000.20
         },
         {
-            "brand": "",
-            "model": "",
+            "brand": "XX",
+            "model": "YY",
             "title": "PPPPP",
-            "reference": "",
+            "reference": "ZZ",
             "images": [
                 "images/Bougie.jpeg"
             ],
