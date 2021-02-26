@@ -7,7 +7,7 @@
             "reference": "CC",
             "images": [
                 {
-                    "imagetitle": "images/Bougie.jpeg"
+                    "imagetitle": "images/parts/Bougie.jpeg"
                 },
                 {
                     "imagetitle": "images/"
@@ -22,7 +22,7 @@
             "reference": "ZZ",
             "images": [
                 {
-                    "imagetitle": "images/Bougie.jpeg"
+                    "imagetitle": "images/parts/FiltreAir.jpeg"
                 },
                 {
                     "imagetitle": "images/"
